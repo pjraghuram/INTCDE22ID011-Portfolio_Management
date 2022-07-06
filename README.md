@@ -42,19 +42,19 @@ The projects contains four web-apis as microservices:
   - Sell assets
   
  
- ###Documentation Requirements
+>##Documentation Requirements
 - All the Microservices are configured with Swagger for documentation.
 - Registerd the swagger resources in the Swagger Microservice and enabled them as REST end points.
 - Configured this service along with other services in the cloud (AWS).
 
-###Individual Components of the System
+>##Individual Components of the System
 - [Customer Portal]
 - [Authorization MicroService]
 - [Share Price Microservice]
 - [Mutual Fund Microservice]
 - [Daily Net Worth Microservice]
 
-###System Requirements
+>##System Requirements
 - Visual Studio 
 - SQL Server
 - AWS

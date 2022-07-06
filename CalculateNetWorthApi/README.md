@@ -2,7 +2,7 @@
 
 >## **Pod leader: P. Jaya Raghu Ram**
 >## **Microservice done by: Poojitha Naidu**
->## ✍&nbsp; Requirements
+>##Requirements
 
 - Customer Portal App is the only client to this Microservice. An authorized customer view the net worth of his or her investment portfolio.
 
@@ -22,6 +22,5 @@
  - o GET: /calculateNetworth (Input: PortfolioDetails | Output: Networth – the computed total amount worth in INR) 
  - o POST: /sellAssets (Input: currentDetail : PortfolioDetails, saleDetail : PortfolioDetails | AssetSaleReponse – Sale response status and the balance amount)
 
-## ⚡ Verified both the end-points using swagger:
+>## Verified both the end-points using swagger:
 
-![alt text](https://pod2calculatenetworthapi.azurewebsites.net/swagger)

@@ -2,7 +2,7 @@
 
 >## **Pod Leader: P. Jaya Raghu Ram**
 >## **Microservice done by: G. Dileep**
->## ✍&nbsp; Functional Requirements
+>## Functional Requirements
 
 - Calculate Networth Microservice interacts with Share Price Microservice. Post authorization of request, Share Price Microservice allows the following operations: 
 
@@ -13,6 +13,6 @@
 
 - o GET: /dailySharePrice (Input: stockName | Output: StockDetail)
 
-## ⚡ Verified the end-points using postman:
+>## Verified the end-points using postman:
 
-![alt text](https://pod2dailysharepriceapi.azurewebsites.net/swagger)
+

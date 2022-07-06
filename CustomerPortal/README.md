@@ -1,7 +1,7 @@
 # **Customer Portal**
 
 >## **Pod-leader: P. Jaya Raghu Ram**
->## ✍&nbsp; Functional Requirements
+>## Functional Requirements
 
 Customer Portal allows customer to login. Once successfully logged in, the customer can do the following operations:
 
@@ -26,8 +26,3 @@ Customer Portal allows customer to login. Once successfully logged in, the custo
  - --> 'Net Worth' of User's Investment Portfolio is calculated by 'Net Worth microservice' with the help of an algorithm developed and is sent back as a result to call made by 'Customer Portal' for calculating user's networth and is displayed on user's investment portfolio profile.
  - --> Updated Networth is displayed on selling of any stock or MutualFund from user's investment portfolio.
 
-stock: https://pod2dailysharepriceapi.azurewebsites.net/
-mutual: https://pod2dailymutualfundnavmicroservice.azurewebsites.net/
-calculate: https://pod2calculatenetworthapi.azurewebsites.net/
-authorization: https://pod2authorizationapi.azurewebsites.net/
-login portal: https://portfoliomsys.azurewebsites.net/

@@ -5,8 +5,8 @@ P. Jaya Raghu Ram  (2135391)
 P. Adarsh (2134216)
 Poojitha Naidu (2137076)
 G. Dileep (2136832)
-P. Sai Avinash (2135418)**
->##Project Overview
+P. Sai Avinash (2135418)
+###Project Overview
 
 A customer Portal is developed as a part of this project that consumes all of the Microservices to view their portfolio information and sell their assets.
 
@@ -41,8 +41,8 @@ The projects contains four web-apis as microservices:
   - View the portfolio details & networth 
   - Sell assets
   
- ###Features
- Documentation Requirements:
+ 
+ ###Documentation Requirements
 - All the Microservices are configured with Swagger for documentation.
 - Registerd the swagger resources in the Swagger Microservice and enabled them as REST end points.
 - Configured this service along with other services in the cloud (AWS).
@@ -54,7 +54,7 @@ The projects contains four web-apis as microservices:
 - [Mutual Fund Microservice]
 - [Daily Net Worth Microservice]
 
->##System Requirements
+###System Requirements
 - Visual Studio 
 - SQL Server
 - AWS
